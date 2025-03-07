@@ -1,0 +1,15 @@
+**/.vs
+**/x64
+*.vcxproj*
+*.sln
+*.ini
+**/target/
+**/.idea/
+**/.idea/
+**/Lib/
+**/Scripts/
+**/public/
+**/.prettierrc
+**/index.html
+**/package.json
+**/pom.xml

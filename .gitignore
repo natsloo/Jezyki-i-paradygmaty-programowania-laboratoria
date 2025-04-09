@@ -13,3 +13,6 @@
 **/index.html
 **/package.json
 **/pom.xml
+*.tab.c
+*.yy.c
+*.out

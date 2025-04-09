@@ -1,0 +1,10 @@
+10
+a) 1*0?1*0?1*0?1* lub 1*(01*)?(01*)?(01*)?
+b) 1*(00|0)?(1+(00|0)?)*
+c) (((00)*)|((111)*))* - 1010100 nieakceptowane ://
+
+(1*01*01*)*
+
+d) język poprawnych adresów e-mail. Dla uproszczenia przyjmujemy, że poprawny adres e-mailowy składa się z niepustego identyfikatora złożonego z samych liter (maksymalnie z czterech), znaku "małpy", niepustej nazwy serwera złożonej z samych liter (maksymalnie czterech), kropki oraz dwuliterowej nazwy domeny. Alfabet składa się tylko z liter a, b i c.
+
+((a|b|c){1,4})*@((a|b|c){1,4})*\.((a|b|c){2})*
